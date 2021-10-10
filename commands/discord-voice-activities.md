@@ -7,3 +7,7 @@ description: >-
 # Discord Voice Activities
 
 Coming soon!
+
+## Watch Together
+
+Watch Together is a new Discord feature thatallows you to watch YouTube together with your friends in a voice channel via a interactive activity. Everyone in the activity 
