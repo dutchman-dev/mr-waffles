@@ -6,8 +6,6 @@ description: >-
 
 # Discord Voice Activities
 
-Coming soon!
-
 ## About the activities
 
 ## Available activities
