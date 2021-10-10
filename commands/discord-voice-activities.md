@@ -10,10 +10,14 @@ Coming soon!
 
 ## About the activities
 
-## Available activitie
+## Available activities
 
-## Watch Together
+### Watch Together
 
 Watch Together is a new Discord feature thatallows you to watch YouTube together with your friends in a voice channel via a interactive activity. Everyone joining the activity can add videos to queue, play/ pause and so on. Cool, right? This feature isn't currently usable in the Discord user interface but with our bot you can use it. Use the commands below and the bot creates an invite link of the given voice channel starting the `Watch Together` activity in the voice channel.
 
-## Discord Poker Night
+### Discord Poker Night
+
+`Discord Poker Night` was officially developed by Discord.
+
+### Ches
