@@ -20,4 +20,16 @@ Watch Together is a new Discord feature thatallows you to watch YouTube together
 
 `Discord Poker Night` was officially developed by Discord.
 
-### Ches
+### Chess in the park
+
+### Betrayal.io
+
+### Fishington.io
+
+### Doodle Crew
+
+### Words Snack
+
+###
+
+* Doodle Crew
