@@ -22,6 +22,8 @@ Watch Together is a new Discord feature thatallows you to watch YouTube together
 
 ### Chess in the park
 
+`Chess in the Park` was officially developed by Discord.
+
 ### Betrayal.io
 
 ### Fishington.io
@@ -30,6 +32,4 @@ Watch Together is a new Discord feature thatallows you to watch YouTube together
 
 ### Words Snack
 
-###
-
-* Doodle Crew
+### Letter Tile
